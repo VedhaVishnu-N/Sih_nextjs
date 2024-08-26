@@ -1,0 +1,29 @@
+/* Container.module.css */
+.content {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    height: 60px; 
+    padding: 0 20px;
+    border-bottom: 1px solid black;
+}
+
+.searchInput {
+    width: 850px; 
+    margin-right: 20px; 
+    padding-left: 10px;
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 6px; 
+
+}
+
+.dropdownContainer {
+    display: flex; 
+    gap: 10px; 
+}
+
+.dropdownContent {
+    display: flex;
+    align-items: center; 
+}

@@ -1,0 +1,41 @@
+.box {
+    width: 350px;
+    height: 120px; 
+    margin: 50px;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row; 
+    align-items: center; 
+    padding: 10px;
+}
+
+.logoContainer { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:20px ; 
+}
+
+
+
+.textContainer {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    padding: 10px; 
+}
+
+.heading {
+    font-size: 18px;
+    margin: 0;
+}
+
+.count {
+    font-size: 40px;
+    margin: 0;
+    align-items: center;
+}
+.dashprj{
+    display: flex;
+}

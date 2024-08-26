@@ -1,0 +1,7 @@
+.carousel {
+    position: relative; /* Parent container should be relatively positioned */
+    width: 100%; /* Full width of the container */
+    height: 500px; /* Set the height you want the carousel to have */
+    overflow: hidden; /* Ensures no overflow if the image is larger */
+  }
+  
